@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://pil71:01121990@Aa@cluster0.earx2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "pil717171"
+}
